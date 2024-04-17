@@ -23,7 +23,4 @@ void main()
 
 
 
-printf("hello");
-__FLT_HAS_INFINITY__cgydtu
-fgxdu
-gdfuyfi
+
