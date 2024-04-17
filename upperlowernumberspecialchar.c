@@ -20,3 +20,10 @@ void main()
         printf("its  a special character\n");
     }
 }
+
+
+
+printf("hello");
+__FLT_HAS_INFINITY__cgydtu
+fgxdu
+gdfuyfi
